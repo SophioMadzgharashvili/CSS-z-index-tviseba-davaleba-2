@@ -1,0 +1,42 @@
+.img01 {
+    width: 435px;
+    height: 254px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: 3;
+}
+
+
+.img02 {
+    width: 558px;
+    height: 254px;
+    top: 0; 
+    left: 371px;
+    position: absolute;
+    z-index: 1;
+}
+
+
+.img03 {
+    width: 421px;
+    height: 254px;
+    top: 0;
+    left: 859px;
+    position: absolute;
+    z-index: 2;
+}
+
+
+.p01 {
+    width: 538px;
+    height: 59px;
+    text-align: center;
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    top: 180px;
+    left: 391px;
+    position: absolute;
+    z-index: 4;
+}
